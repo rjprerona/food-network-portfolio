@@ -8,10 +8,14 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+    color: darkgray;
+}
 p{
     color: dimgray;
 }
-.section{
+section{
     height: 500px;
     padding-bottom: 200px;
 }
@@ -31,4 +35,17 @@ p{
     border-radius: 55px;
     color: white;
     font-weight: 700;
+}
+.about-area{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.another-half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.another-half-width img{
+    width: 72%;
 }
