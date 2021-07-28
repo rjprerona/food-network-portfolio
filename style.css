@@ -49,3 +49,60 @@ section{
 .another-half-width img{
     width: 72%;
 }
+/* .food-items img{
+    height: 100%;
+    width: 31.2%;  
+   float: left;
+    padding: 0 0 20px 0;
+}
+#center-align{
+    text-align: center;
+} */
+
+.contact{
+    height: 225px;
+    width: 906px;
+    left: 267px;
+    top: 2116px;
+    border-radius: 30px;
+    background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+    margin: auto;
+    
+
+}
+
+.contact h1{
+color: white;
+padding-left: 300px;
+padding-right: 20px;
+padding-top: 60px; 
+
+ 
+}
+
+.chat-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    background-color:hotpink;
+    padding: 10px 20px;
+    border-radius: 5px; 
+    color: white;
+    font-weight: 700;
+    margin-left: 400px;
+    
+}
+
+footer{
+    background: #111;
+    height: 200px;
+    width: 100vw;
+    padding-top: 40-x;
+    color : white;
+}
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
